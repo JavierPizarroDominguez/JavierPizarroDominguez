@@ -1,14 +1,14 @@
-## Hola! Mi nombre es Javier Pizarro! 👋 
+# Hola! Mi nombre es Javier Pizarro! 👋 
 
-# A los 16 años entré en el mundo del diseño web. Me gustaba imaginar y luego ver en la pantalla lo que ya existía en mi cabeza. Hoy, ya egresado de Analista Programador de Duoc UC, y con la experiencia de haber desarrollado proyectos que hoy facilitan la vida a los usuarios, me dedico a desarrollar software profesionalmente. Soy Freelancer, programador Full Stack, especializado en Laravel y PHP.
+## A los 16 años entré en el mundo del diseño web. Me gustaba imaginar y luego ver en la pantalla lo que ya existía en mi cabeza. Hoy, ya egresado de Analista Programador de Duoc UC, y con la experiencia de haber desarrollado proyectos que hoy facilitan la vida a los usuarios, me dedico a desarrollar software profesionalmente. Soy Freelancer, programador Full Stack, especializado en Laravel y PHP.
 
-# 🔭 Actualmente estoy trabajando en un ERP inmobiliario que permita administrar arriendos, manejando gastos de servicios, reparaciones, comisiones y todo lo relacionado al corretaje de propiedades, automatizándolo con la cartola de la cuenta bancaria, para así saber, a través de las transacciones, qué cobros están pagados y cuales pendientes.
+## 🔭 Actualmente estoy trabajando en un ERP inmobiliario que permita administrar arriendos, manejando gastos de servicios, reparaciones, comisiones y todo lo relacionado al corretaje de propiedades, automatizándolo con la cartola de la cuenta bancaria, para así saber, a través de las transacciones, qué cobros están pagados y cuales pendientes.
 
-# Anteriormente creé un plugin para WordPress que sincroniza el stock de WooCommerce con MercadoLibre, en PHP puro, usando la API de WooCommerce y la API de Mercadolibre. Lo más duro fue aprender las reglas de negocio de Mercadolibre, que son MUCHÍSIMAS! Cómo sufrí entendiendo las guías de tallas para cada producto.
+## Anteriormente creé un plugin para WordPress que sincroniza el stock de WooCommerce con MercadoLibre, en PHP puro, usando la API de WooCommerce y la API de Mercadolibre. Lo más duro fue aprender las reglas de negocio de Mercadolibre, que son MUCHÍSIMAS! Cómo sufrí entendiendo las guías de tallas para cada producto.
 
-# Mi portafolio de título fue un sistema en base a Java y Oracle SQL Server que debía tomar pedidos de comida, pasar la información a cocina, y posteriormente notificar al repartidor, por lo que tenía 3 vistas diferenciadas.
+## Mi portafolio de título fue un sistema en base a Java y Oracle SQL Server que debía tomar pedidos de comida, pasar la información a cocina, y posteriormente notificar al repartidor, por lo que tenía 3 vistas diferenciadas.
 
-# En mi práctica profesional desarrollé un software para detectar dobles contrataciones e irregularidades en la Ilustre Municipalidad de San Antonio.
+## En mi práctica profesional desarrollé un software para detectar dobles contrataciones e irregularidades en la Ilustre Municipalidad de San Antonio.
 <!--
 **JavierPizarroDominguez/JavierPizarroDominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
